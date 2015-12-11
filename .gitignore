@@ -12,5 +12,5 @@
 !/log/.keep
 /tmp
 
-# Ignore db files
-/db/
+# Ignore database file
+/config/database.yml
